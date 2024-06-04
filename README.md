@@ -23,9 +23,9 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    - `while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/serie_de_fibonacci/while.c
    - `do while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/serie_de_fibonacci/do_while.c
 6. **Factorial de un número**
-  - `for`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/for.c
-  - `while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/while.c
-  - `do while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/do_while.c
+   - `for`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/for.c
+   - `while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/while.c
+   - `do while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/factorial_de_un_numero/do_while.c
 7. **Suma de una serie aritmética**
     - `for`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/suma_aritmetica/for.c
     - `while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/suma_aritmetica/while.c
@@ -68,7 +68,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     - `do while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/suma_factoriales/do_while.c
 17. **Producto de una serie de números fraccionarios**
     - `for`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/producto_fraccionarios/for.c
-    - `while`:
+    - `while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/producto_fraccionarios/while.c
     - `do while`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/producto_fraccionarios/do_while.c
 18. **Contar los números primos hasta n**
     - `for`:https://github.com/R0yalCode/Taller-de-Programaci-n-en-C/blob/main/contar_n%20_primos/for.c
